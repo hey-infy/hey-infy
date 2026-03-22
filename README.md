@@ -1,14 +1,23 @@
 ## Hi there 👋
 
 👨‍💻 “About Me” or “The Human Behind the Code”
+
 🛠️ “My Toolbox” (languages, frameworks, tools)
+
 🎯 “Current Focus” or “What I’m Building” OR 🔭 I’m currently working on ...
+
 🌱 I’m currently learning ...
+
 👯 I’m looking to collaborate on ... OR 🤔 I’m looking for help with ...
+
 💬 Ask me about ...
+
 📚 “When Not Coding” (hobbies, fun facts)
+
 📬 “Find Me Online” (social links) OR 📫 How to reach me: ...
+
 ⚡ Fun fact: ...
+
 
 ‼️😒‼️WORK IS STILL IN PROGRESS‼️😒‼️
 **cause I can interpret the expressions on your face.
