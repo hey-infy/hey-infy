@@ -116,6 +116,7 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 ### 🗄️ Databases
 
+<p> <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb"/> </p>
 - PostgreSQL
 - Redis
 - MongoDB
