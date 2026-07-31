@@ -1,6 +1,4 @@
 
-# 👋 Hi, I'm Tanmay
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20There!%20I'm%20Tanmay%20👋&fontAlignY=40&animation=fadeIn"/>
 </p>
