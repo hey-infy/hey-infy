@@ -3,11 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20There!%20I'm%20Tanmay%20👋&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Salute%20I'm%20Tanmay%20👋&fontAlignY=40&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Enthusiast;Linux+Lover;Kubernetes+Explorer;Automating+Everything+I+Can;Future+JARVIS+Builder+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Motorhead;DevOps+Engineer;Cloud+Enthusiast;Linux+Lover;Kubernetes+Explorer;Automating+Everything+I+can+understand;Possible+Future+JARVIS+Builder+🤖" />
 </p>
 
 <p align="center">
@@ -106,8 +106,10 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
   <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="Datadog" width="48" height="48"/>
 </p>
 
-- LOKI (icons coming soon!!)
-- KAFKA (if I can find them 😅)
+- LOKI
+- KAFKA
+  
+**icons coming soon, if I can find 'em 😅 
 
 ---
 
