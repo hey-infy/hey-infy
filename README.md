@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20There!%20I'm%20YOUR_NAME%20👋&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20There!%20I'm%20Tanmay%20👋&fontAlignY=40&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Cloud Enthusiast
 Professional "Have you checked the logs?" person
 ```
 
-Hi! I'm **YOUR_NAME** 👋
+Hi! I'm **TANMAY** 👋
 
 I'm passionate about building reliable infrastructure, automating repetitive tasks, and making deployments as painless as possible.
 
