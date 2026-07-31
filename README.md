@@ -299,4 +299,3 @@ Humans sometimes do.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 </p>
-````
