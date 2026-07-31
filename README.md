@@ -79,8 +79,6 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
   <img src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/istio/466BB0" alt="Istio" width="48" height="48"/>
 </p>
-- Helm
-- Istio
 
 ---
 
@@ -98,23 +96,15 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab"/>
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="ArgoCD" width="48" height="48"/>
 </p>
-- GitHub Actions
-- Jenkins
-- GitLab CI
-- ArgoCD
 
 ---
 
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,loki,kafka"/>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,loki"/>
   <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="Datadog" width="48" height="48"/>
 </p>
-- Grafana
-- Prometheus
-- Loki
-- Datadog
 
 ---
 
