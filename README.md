@@ -101,11 +101,10 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 ### 📊 Monitoring & Observability
 
-<p>
-  <img src="https://skillicons.dev"/>
-  <img src="https://dashboardicons.com" alt="Grafana Loki" width="48" height="48" style="vertical-align: middle; margin-right: 4px;"/>
-  <img src="https://simpleicons.org" alt="Datadog" width="48" height="48"/>
-</p>
+[![Grafana](https://shields.io)](https://grafana.com)
+[![Prometheus](https://shields.io)](https://prometheus.io)
+[![Grafana Loki](https://shields.io)](https://grafana.com)
+[![Datadog](https://shields.io)](https://datadoghq.com)
 
 ---
 
