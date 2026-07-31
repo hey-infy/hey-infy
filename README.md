@@ -102,10 +102,10 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,loki"/>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
+  <img src="https://shields.io" alt="Grafana Loki" height="48"/>
   <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="Datadog" width="48" height="48"/>
 </p>
-
 ---
 
 ### 💻 Languages
