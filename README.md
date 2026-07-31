@@ -75,6 +75,7 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 **Also familiar with**
 
+<p> <img src="https://skillicons.dev/icons?i=helm,istio"/> </p>
 - Helm
 - Istio
 
@@ -90,6 +91,7 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 ### 🔄 CI / CD
 
+<p> <img src="https://skillicons.dev/icons?i=jenkins,gitlab,argo,githubactions"/> </p>
 - GitHub Actions
 - Jenkins
 - GitLab CI
@@ -99,6 +101,7 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 ### 📊 Monitoring & Observability
 
+<p> <img src="https://skillicons.dev/icons?i=grafana,prometheus,loki,kafka,datadog"/> </p>
 - Grafana
 - Prometheus
 - Loki
