@@ -75,11 +75,10 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 **Also familiar with**
 
-<p> <!-- Helm Badge -->
-<img src="https://shields.io" alt="Helm" />
-
-<!-- Istio Badge -->
-<img src="https://shields.io" alt="Istio" /> </p>
+<p>
+  <img src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/istio/466BB0" alt="Istio" width="48" height="48"/>
+</p>
 - Helm
 - Istio
 
@@ -95,7 +94,10 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 ### 🔄 CI / CD
 
-<p> <img src="https://skillicons.dev/icons?i=jenkins,gitlab,argo,githubactions"/> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab"/>
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="ArgoCD" width="48" height="48"/>
+</p>
 - GitHub Actions
 - Jenkins
 - GitLab CI
@@ -105,7 +107,10 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 ### 📊 Monitoring & Observability
 
-<p> <img src="https://skillicons.dev/icons?i=grafana,prometheus,loki,kafka,datadog"/> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,loki,kafka"/>
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="Datadog" width="48" height="48"/>
+</p>
 - Grafana
 - Prometheus
 - Loki
