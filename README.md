@@ -75,7 +75,11 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 
 **Also familiar with**
 
-<p> <img src="https://skillicons.dev/icons?i=helm,istio"/> </p>
+<p> <!-- Helm Badge -->
+<img src="https://shields.io" alt="Helm" />
+
+<!-- Istio Badge -->
+<img src="https://shields.io" alt="Istio" /> </p>
 - Helm
 - Istio
 
@@ -120,9 +124,6 @@ When I'm not writing Terraform or staring at YAML files, you'll probably find me
 ### 🗄️ Databases
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb"/> </p>
-- PostgreSQL
-- Redis
-- MongoDB
 
 ---
 
